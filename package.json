@@ -1,0 +1,26 @@
+{
+  "name": "chatterbackendapp",
+  "version": "1.0.0",
+  "description": "NodeJS based backend API for chatter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon .index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp311997/ChatterBackEndAPP.git"
+  },
+  "author": "Rahul Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsp311997/ChatterBackEndAPP/issues"
+  },
+  "homepage": "https://github.com/rsp311997/ChatterBackEndAPP#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
