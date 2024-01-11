@@ -44,3 +44,118 @@ Thu Jan 11 2024 02:07:49 GMT+0530 (India Standard Time) GET /login Error: 404 Re
     at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:376:14)
     at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:421:3)
     at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+Fri Jan 12 2024 00:46:43 GMT+0530 (India Standard Time) GET / TypeError: mongoDB is not a function
+    at DBConnection (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Utilities\DBConfiguration\DBConnection.js:6:27)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+Fri Jan 12 2024 00:47:03 GMT+0530 (India Standard Time) GET / TypeError: mongoDB is not a constructor
+    at DBConnection (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Utilities\DBConfiguration\DBConnection.js:6:27)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+Fri Jan 12 2024 00:47:42 GMT+0530 (India Standard Time) GET / TypeError: mongoDB is not a constructor
+    at DBConnection (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Utilities\DBConfiguration\DBConnection.js:6:27)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+Fri Jan 12 2024 00:48:12 GMT+0530 (India Standard Time) GET / TypeError: mongoDB is not a constructor
+    at DBConnection (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Utilities\DBConfiguration\DBConnection.js:5:27)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:286:9
+Fri Jan 12 2024 00:50:37 GMT+0530 (India Standard Time) GET / MongoServerSelectionError: connect ECONNREFUSED ::1:27017
+    at EventTarget.<anonymous> (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\mongodb\lib\sdam\topology.js:276:34)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:735:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:677:26)
+    at abortSignal (node:internal/abort_controller:308:10)
+    at TimeoutController.abort (node:internal/abort_controller:338:5)
+    at Timeout.<anonymous> (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\mongodb\lib\utils.js:1011:92)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+Fri Jan 12 2024 00:51:17 GMT+0530 (India Standard Time) GET / Error: 404 Resource not found!
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Routers\index.js:8:19
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+Fri Jan 12 2024 00:51:18 GMT+0530 (India Standard Time) GET /favicon.ico Error: 404 Resource not found!
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Routers\index.js:8:19
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+Fri Jan 12 2024 00:51:23 GMT+0530 (India Standard Time) GET / Error: 404 Resource not found!
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Routers\index.js:8:19
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+Fri Jan 12 2024 00:51:26 GMT+0530 (India Standard Time) GET / Error: 404 Resource not found!
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\src\Routers\index.js:8:19
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\express\lib\router\index.js:280:10)
+Fri Jan 12 2024 00:54:26 GMT+0530 (India Standard Time) GET / MongoServerSelectionError: connect ECONNREFUSED ::1:27017
+    at EventTarget.<anonymous> (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\mongodb\lib\sdam\topology.js:276:34)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:735:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:677:26)
+    at abortSignal (node:internal/abort_controller:308:10)
+    at TimeoutController.abort (node:internal/abort_controller:338:5)
+    at Timeout.<anonymous> (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\mongodb\lib\utils.js:1011:92)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+Fri Jan 12 2024 00:56:12 GMT+0530 (India Standard Time) GET / MongoServerSelectionError: connect ECONNREFUSED ::1:27017
+    at EventTarget.<anonymous> (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\mongodb\lib\sdam\topology.js:276:34)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:735:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:677:26)
+    at abortSignal (node:internal/abort_controller:308:10)
+    at TimeoutController.abort (node:internal/abort_controller:338:5)
+    at Timeout.<anonymous> (C:\Users\rahul panwar\Desktop\workspace\NodeJS\ChatterBackEndAPP\node_modules\mongodb\lib\utils.js:1011:92)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)

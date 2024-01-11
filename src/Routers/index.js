@@ -1,5 +1,9 @@
 const Routers = require('express').Router();
 
+Routers.get('/',(req,res)=>{
+    res.status(200).end("Welcome to chatter app..");
+});
+
 Routers.post('/authenticate',(req,res)=>{
     res.status(200).end("please authenticate");
 });
